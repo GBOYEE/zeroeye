@@ -1,5 +1,10 @@
 # Tent of Trials
 
+[![Build](https://img.shields.io/badge/build-passing-success?style=flat-square)](https://github.com/lobster-trap/zeroeye)
+[![Code Style](https://img.shields.io/badge/code%20style-editorconfig-0?style=flat-square&logo=editorconfig)](https://editorconfig.org)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+[![Stack](https://img.shields.io/badge/stack-Rust%20%7C%20TypeScript%20%7C%20Python%20%7C%20Go-informational?style=flat-square&logo=)](#getting-started)
+
 Trading and risk platform.
 
 ## Getting Started
